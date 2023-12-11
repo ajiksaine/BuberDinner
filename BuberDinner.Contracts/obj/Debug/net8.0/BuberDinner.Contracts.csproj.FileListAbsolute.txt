@@ -1,0 +1,12 @@
+C:\Users\aksaine\Documents\Personal Projects\CleanArchitectureDDDTutorials\BuberDinner\BuberDinner.Contracts\bin\Debug\net8.0\BuberDinner.Contracts.deps.json
+C:\Users\aksaine\Documents\Personal Projects\CleanArchitectureDDDTutorials\BuberDinner\BuberDinner.Contracts\bin\Debug\net8.0\BuberDinner.Contracts.dll
+C:\Users\aksaine\Documents\Personal Projects\CleanArchitectureDDDTutorials\BuberDinner\BuberDinner.Contracts\bin\Debug\net8.0\BuberDinner.Contracts.pdb
+C:\Users\aksaine\Documents\Personal Projects\CleanArchitectureDDDTutorials\BuberDinner\BuberDinner.Contracts\obj\Debug\net8.0\BuberDinner.Contracts.csproj.AssemblyReference.cache
+C:\Users\aksaine\Documents\Personal Projects\CleanArchitectureDDDTutorials\BuberDinner\BuberDinner.Contracts\obj\Debug\net8.0\BuberDinner.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aksaine\Documents\Personal Projects\CleanArchitectureDDDTutorials\BuberDinner\BuberDinner.Contracts\obj\Debug\net8.0\BuberDinner.Contracts.AssemblyInfoInputs.cache
+C:\Users\aksaine\Documents\Personal Projects\CleanArchitectureDDDTutorials\BuberDinner\BuberDinner.Contracts\obj\Debug\net8.0\BuberDinner.Contracts.AssemblyInfo.cs
+C:\Users\aksaine\Documents\Personal Projects\CleanArchitectureDDDTutorials\BuberDinner\BuberDinner.Contracts\obj\Debug\net8.0\BuberDinner.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\aksaine\Documents\Personal Projects\CleanArchitectureDDDTutorials\BuberDinner\BuberDinner.Contracts\obj\Debug\net8.0\BuberDinner.Contracts.dll
+C:\Users\aksaine\Documents\Personal Projects\CleanArchitectureDDDTutorials\BuberDinner\BuberDinner.Contracts\obj\Debug\net8.0\refint\BuberDinner.Contracts.dll
+C:\Users\aksaine\Documents\Personal Projects\CleanArchitectureDDDTutorials\BuberDinner\BuberDinner.Contracts\obj\Debug\net8.0\BuberDinner.Contracts.pdb
+C:\Users\aksaine\Documents\Personal Projects\CleanArchitectureDDDTutorials\BuberDinner\BuberDinner.Contracts\obj\Debug\net8.0\ref\BuberDinner.Contracts.dll
