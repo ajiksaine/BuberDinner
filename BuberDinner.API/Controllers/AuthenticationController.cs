@@ -6,7 +6,6 @@ namespace BuberDinner.API.Controllers;
 
 [ApiController]
 [Route("auth")]
-//[ErrorHandlingFilterAttribute]
 public class AuthenticationController : ControllerBase
 {
     private readonly IAuthenticationService _authenticationService;
