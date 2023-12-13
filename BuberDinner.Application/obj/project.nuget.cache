@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "wfkaBU3SNVipz+96bZ+TfOT3RzviOxo9b4I8cD0cBcatxXQcwk2VDdVweWciHZAycSsxUr9AWTkKptkLB11AHA==",
+  "dgSpecHash": "FWr9dMRb6nFbQ135Fk7eLrUaf9JFDFcMMxy+TbAIwAVNkx+cXmZbEsWjMo40JmqkMGv2I5N+yGg5F2rd6LnZJw==",
   "success": true,
   "projectFilePath": "C:\\Users\\aksaine\\Documents\\Personal Projects\\CleanArchitectureDDDTutorials\\BuberDinner\\BuberDinner.Application\\BuberDinner.Application.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\aksaine\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+    "C:\\Users\\aksaine\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\aksaine\\.nuget\\packages\\oneof\\3.0.263\\oneof.3.0.263.nupkg.sha512"
   ],
   "logs": []
 }
