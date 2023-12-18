@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "F/xL32Al3zWHOXscvWO57HNR16F2R9XUaU76fGL9ad2ZFea2aNA5YMnayHdfDPK8zWlQHCjd2Xt0Ww3S8HV8Uw==",
+  "dgSpecHash": "JN9clGFGj2jnscOZ7h+tbzpKvPef4Ubmbp/s+DFqKzGmRcLExGjRvPQJhYbUh9+ZAiCMuwbBJY9j+77qpoUcxQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\aksaine\\Documents\\Personal Projects\\CleanArchitectureDDDTutorials\\BuberDinner\\BuberDinner.Domain\\BuberDinner.Domain.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\aksaine\\.nuget\\packages\\erroror\\1.3.0\\erroror.1.3.0.nupkg.sha512"
+  ],
   "logs": []
 }

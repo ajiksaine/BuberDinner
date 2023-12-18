@@ -52,3 +52,4 @@ C:\Users\aksaine\Documents\Personal Projects\CleanArchitectureDDDTutorials\Buber
 C:\Users\aksaine\Documents\Personal Projects\CleanArchitectureDDDTutorials\BuberDinner\BuberDinner.API\bin\Debug\net8.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
 C:\Users\aksaine\Documents\Personal Projects\CleanArchitectureDDDTutorials\BuberDinner\BuberDinner.API\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
 C:\Users\aksaine\Documents\Personal Projects\CleanArchitectureDDDTutorials\BuberDinner\BuberDinner.API\bin\Debug\net8.0\FluentResults.dll
+C:\Users\aksaine\Documents\Personal Projects\CleanArchitectureDDDTutorials\BuberDinner\BuberDinner.API\bin\Debug\net8.0\ErrorOr.dll
